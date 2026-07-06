@@ -1,0 +1,10 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Stealth Systems Blog'
+theme = 'PaperMod'
+
+[params]
+  ShowCodeCopyButtons = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
