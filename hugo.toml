@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = 'Stealth Systems Blog'
+title = 'Stealth Systems Field Notes'
 theme = 'PaperMod'
 
 [params]
